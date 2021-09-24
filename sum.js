@@ -8,6 +8,6 @@ function sum(param) {
   return total;
 }
 
-console.log(sum(30)); // 6
+console.log(sum(33)); // 6
 console.log(sum(6)); // 21
 console.log(sum(10)); // 55
